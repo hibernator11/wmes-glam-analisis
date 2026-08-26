@@ -1,5 +1,7 @@
 # wmes-glam-analisis
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/wmes-glam-analisis/HEAD)
+
 Este proyecto tiene como objetivo el análisis de las actividades realizadas en [Wikimedia España](https://wikimedia.es/). 
 
 ## Introducción
