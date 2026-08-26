@@ -1,6 +1,11 @@
 # wmes-glam-analisis
 
-Este proyecto tiene como objetivo el análisis de las actividades realizadas en [Wikimedia España](https://wikimedia.es/). Se ha recopilado una [colección de eventos](GLAM-WMES-Actividades.csv) y se proporciona como datos para su extensión, enriquecimiento y reutilización. A modo de ejemplo, se incluye un [Jupyter Notebook](wmes-datos.ipynb) que muestra cómo reutilizar los datos generados.
+Este proyecto tiene como objetivo el análisis de las actividades realizadas en [Wikimedia España](https://wikimedia.es/). 
+
+## Introducción
+Se ha recopilado una [colección de eventos](GLAM-WMES-Actividades.csv) y se proporciona como datos para su extensión, enriquecimiento y reutilización. A modo de ejemplo, se incluye un [Jupyter Notebook](wmes-datos.ipynb) que muestra cómo reutilizar los datos generados.
+
+El código es posible ejecutarlo en un navegador utilizando el icono Binder incluido al inicio de este documento.
 
 ## Autores
 
