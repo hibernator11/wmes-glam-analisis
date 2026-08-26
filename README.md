@@ -10,6 +10,8 @@ Se ha recopilado una [colección de eventos](GLAM-WMES-Actividades.csv) y se pro
 
 El código es posible ejecutarlo en un navegador utilizando el icono Binder incluido al inicio de este documento.
 
+<img src="plot.jpg" width="50%">
+
 ## Autores
 
 - Ángel Obregón - Universidad Internacional de la Rioja
