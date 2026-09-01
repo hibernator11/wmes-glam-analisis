@@ -10,9 +10,11 @@ Se ha recopilado una [colección de eventos](GLAM-WMES-Actividades.csv) y se pro
 
 El código es posible ejecutarlo en un navegador utilizando el icono Binder incluido al inicio de este documento.
 
-<img src="plot.png" width="50%">
+<img src="images/plot.png" width="50%">
 
-<img src="grafica-metricas.png" width="50%">
+<img src="images/grafica-metricas.png" width="50%">
+
+<img src="images/notebook.png" width="50%">
 
 
 ## Autores
