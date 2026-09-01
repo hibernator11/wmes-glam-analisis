@@ -12,6 +12,9 @@ El código es posible ejecutarlo en un navegador utilizando el icono Binder incl
 
 <img src="plot.png" width="50%">
 
+<img src="grafica-metricas.png" width="50%">
+
+
 ## Autores
 
 - Ángel Obregón - Universidad Internacional de la Rioja
