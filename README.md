@@ -14,7 +14,7 @@ El código es posible ejecutarlo en un navegador utilizando el icono Binder incl
 
 <img src="images/grafica-metricas.png" width="50%">
 
-<img src="images/notebook.png" width="50%">
+<img src="images/notebook-example.png" width="50%">
 
 
 ## Autores
